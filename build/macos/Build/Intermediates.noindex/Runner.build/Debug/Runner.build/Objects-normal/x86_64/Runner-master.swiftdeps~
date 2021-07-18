@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "9ac5cf6006599dbd9538f333e6bda927"
+build_time: [1626162221, 657760000]
+inputs:
+  "/Users/thanawatkamkuntod/msobook/macos/Runner/MainFlutterWindow.swift": [1621738691, 764986769]
+  "/Users/thanawatkamkuntod/msobook/macos/Runner/AppDelegate.swift": [1621738691, 762207880]
+  "/Users/thanawatkamkuntod/msobook/macos/Flutter/GeneratedPluginRegistrant.swift": [1626162204, 7472424]

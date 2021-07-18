@@ -1,0 +1,58 @@
+{
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "3d7e0982dc5fe6e860be6d42565efd0ba26d6e580d3222b86d62fb80ec380c14"
+    }
+  ],
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx11.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/thanawatkamkuntod/msobook/build/macos/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/thanawatkamkuntod/msobook/build/macos/Build/Products",
+      "derivedDataPath" : "/Users/thanawatkamkuntod/msobook/build/macos",
+      "indexDataStoreFolderPath" : "/Users/thanawatkamkuntod/msobook/build/macos/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/thanawatkamkuntod/msobook/build/macos/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/thanawatkamkuntod/msobook/build/macos/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "COMPILER_INDEX_STORE_ENABLE" : "NO",
+          "OBJROOT" : "/Users/thanawatkamkuntod/msobook/build/macos/Build/Intermediates.noindex",
+          "SYMROOT" : "/Users/thanawatkamkuntod/msobook/build/macos/Build/Products"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
